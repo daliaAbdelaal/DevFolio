@@ -123,6 +123,19 @@ li:hover:before
         }       
 }
 
+@media screen and (max-width: 576px)
+{
+        .profile-cont p
+        {
+                padding-left: 10px;
+                margin-bottom:5px;
+                
+        }
+        .profile-cont p span
+        {
+                font-size: 15px;
+        }
+}
 
 
 
